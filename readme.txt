@@ -4,4 +4,4 @@ The thred update.
 Git has a mutable index called stage.
 Git tracks changes of files.
 it not add
-it is new  dev branch new
+it is new  dev branch newa
